@@ -53,4 +53,6 @@ To create a Power BI dashboard that fetches and visualizes real-time or periodic
   
 # 📘 Project Description for Resume/Portfolio:
 Live Weather Forecast Dashboard (Power BI)
-Developed an interactive weather monitoring dashboard using Power BI and OpenWeatherMap API. Integrated real-time data for multiple cities, visualized metrics such as temperature, humidity, and wind speed using map and time-series charts. Enabled scheduled refresh and dynamic filtering with slicers.
+Developed an interactive weather monitoring dashboard using Power BI and OpenWeatherMap API. Integrated real-time data for multiple cities, visualized metrics such as temperature, humidity, and wind speed using map and time-series charts. Enabled scheduled refresh and dynamic filtering with slicers.  
+
+<img src="Weather.png" width="900"/>
